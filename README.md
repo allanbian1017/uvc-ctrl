@@ -1,4 +1,4 @@
-#### uvc-ctrl
+# uvc-ctrl
 This is small utility for set and display uvc camera control option (brightness, saturation etc.)
 
 Current support control option:
